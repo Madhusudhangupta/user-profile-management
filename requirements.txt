@@ -1,0 +1,7 @@
+express
+mongoose
+bcrypt
+jsonwebtoken
+socket.io
+cors
+express-validator
